@@ -6,4 +6,7 @@ SEMÁFORO INTELIGENTE, COM ACIONAMENTO VIA SENSOR DE MOVIMENTO (DO PEDESTRE) OU 
 O PEDESTRE PODE ACIONAR O SISTEMA COM O BOTÃO OU SENSOR DE MOVIMENTO/PRESENÇA (PENSADO PARA PCDs, IDOSOS E PESSOAS COM NECESSIDADES ESPECIAIS)
 NA APLICAÇÃO EM SI, É MISTER AS DEVIDAS ADAPTAÇÕES SOBRE O POSICIONAMENTO DO BOTÃO E SENSOR.
 
-<img src="RCDantas1/IoT-projects/blob/main/ESP32%20-%20Microcontrolador/Semáforo%20Inteligente%20-%20Sensor%20e%20Botao/semaforo.jpg" alt="Descrição da imagem" width="300"/>
+<img src="https://github.com/RCDantas1/IoT-projects/blob/main/ESP32%20-%20Microcontrolador/Sem%C3%A1foro%20Inteligente%20-%20Sensor%20e%20Botao/semaforo.jpg" alt="Descrição da imagem" width="300"/>
+
+
+https://github.com/RCDantas1/IoT-projects/blob/main/ESP32%20-%20Microcontrolador/Sem%C3%A1foro%20Inteligente%20-%20Sensor%20e%20Botao/semaforo.jpg
